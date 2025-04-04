@@ -2,7 +2,8 @@
 
 ## Project Management
 
-Open [slides.html](slides.html) file in a browser to visualize the presentation.
+- Open https://snowanderson.github.io/technical-assignment/slides.html (Github Pages)
+- Or open [slides.html](slides.html) file in a browser to visualize the presentation.
 
 ## Scripting
 
